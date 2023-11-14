@@ -3,7 +3,7 @@
 
 </p>
 
-Welcome to the preliminary phase of our mealworm detection and identification model — an innovative initiative driven by computer vision, carefully developed in collaboration with the Laboratory of Bioinformatics and Omics Sciences at the University of Mogi das Cruzes, under the supervision of Professor Dr. Fabiano Menegidio.
+Welcome to the preliminary phase of our mealworm detection and identification model — an innovative initiative driven by computer vision, carefully developed in collaboration with the **Laboratory of Bioinformatics and Omics Sciences (LaBiOmics)** at the **University of Mogi das Cruzes (UMC)**, under the supervision of **Prof. Dr. Fabiano B. Menegidio**.
 
 **Explore the World of Edible Insects:**
 
