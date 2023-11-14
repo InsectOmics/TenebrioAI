@@ -22,7 +22,7 @@ Furthermore, we highlight the relevance of this project to the fields of Biotech
 Moreover, the project also stands out in the realm of public policies, providing a valuable tool for governments and organizations seeking to promote sustainable and safe agricultural practices, aligned with the growing demands for food and environmental concerns.
 
 ---
-## Guide to Utilizing the Tenebrio IA Detect and Identification Model
+## Guide to Utilizing the Tenebrio IA Detection and Identification Model
 
 
 ---
