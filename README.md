@@ -26,7 +26,7 @@ Moreover, the project also stands out in the realm of public policies, providing
 <a href="https://universe.roboflow.com/insectia-detect-vn18h/tenebrio-ia-detect/model/">
     <img src="https://app.roboflow.com/images/try-model-badge.svg"></img>
 </a>
-
+</br>
 <a href="https://universe.roboflow.com/insectia-detect-vn18h/tenebrio-ia-detect">
     <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
 </a>
