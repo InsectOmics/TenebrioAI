@@ -1,2 +1,2 @@
 # TenebrioIA
-![Tenebrio IA Detect](/misc/img/MarineGEO_logo.png "MarineGEO logo")
+![Tenebrio IA Detect](/misc/caterpillar.png "TenebrioIA logo")
