@@ -20,6 +20,8 @@ Developed on the Roboflow platform, our model harnesses the latest strides in co
 Furthermore, we highlight the relevance of this project to the fields of Biotechnology and Biomedical Engineering. The ability to identify and understand mealworms through computer vision has significant implications in biomedical research, opening doors for studies on potential medicinal and pharmaceutical applications of these insects.
 
 Moreover, the project also stands out in the realm of public policies, providing a valuable tool for governments and organizations seeking to promote sustainable and safe agricultural practices, aligned with the growing demands for food and environmental concerns.
+
+---
 </br></br>
 <p align="center">
 
