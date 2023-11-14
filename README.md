@@ -1,10 +1,6 @@
 <p align="center">
 <img src="/misc/logo.png" alt="Tenebrio IA" class="center";"/>
 
-<a href="https://universe.roboflow.com/insectia-detect-vn18h/tenebrio-ia-detect/model/">
-    <img src="https://app.roboflow.com/images/try-model-badge.svg"></img>
-</a>
-
 </p>
 
 Welcome to the preliminary phase of our mealworm detection and identification model — an innovative initiative driven by computer vision, carefully developed in collaboration with the Laboratory of Bioinformatics and Omics Sciences at the University of Mogi das Cruzes, under the supervision of Professor Dr. Fabiano Menegidio.
@@ -26,6 +22,10 @@ Furthermore, we highlight the relevance of this project to the fields of Biotech
 Moreover, the project also stands out in the realm of public policies, providing a valuable tool for governments and organizations seeking to promote sustainable and safe agricultural practices, aligned with the growing demands for food and environmental concerns.
 
 <p align="center">
+
+<a href="https://universe.roboflow.com/insectia-detect-vn18h/tenebrio-ia-detect/model/">
+    <img src="https://app.roboflow.com/images/try-model-badge.svg"></img>
+</a>
 
 <a href="https://universe.roboflow.com/insectia-detect-vn18h/tenebrio-ia-detect">
     <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
